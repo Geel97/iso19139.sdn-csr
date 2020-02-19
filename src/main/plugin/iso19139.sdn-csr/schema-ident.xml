@@ -5,6 +5,7 @@
 	<name>iso19139.sdn-csr</name>
 	<id>6c103cb0-58c2-11e3-949a-0800200c9a66</id>
 	<version>1.0</version>
+	<appMinorVersionSupported>3.0.5</appMinorVersionSupported>
 	<depends>iso19139</depends>
 	<!-- Profile XSD location -->
 	<schemaLocation>http://www.seadatanet.org http://schemas.seadatanet.org/Standards-Software/Metadata-formats/SDN2_CSR_ISO19139_3.0.0.xsd</schemaLocation>
